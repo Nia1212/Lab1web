@@ -6,3 +6,7 @@
 ## Heading
 
 ![Heading](img/Ss2.png)
+
+## Format Text
+
+![format_text](img/Ss3.png)
