@@ -9,6 +9,6 @@
 
 ## Format Text
 
-![format_text](img/ss3.png)
+![format_text](img/Ss3.png)
 
 ##
